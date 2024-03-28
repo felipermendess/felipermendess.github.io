@@ -9,5 +9,5 @@ https://felipermendess.github.io/
 ## Contato 📞
 Instagram: https://www.instagram.com/dev.felipermendes/ <br>
 GitHub: https://github.com/felipermendess/ <br>
-Linkedin: https://www.linkedin.com/in/felipermendess/
+Linkedin: https://www.linkedin.com/in/felipermendess/ <br>
 Email: felipermendes04@gmail.com
