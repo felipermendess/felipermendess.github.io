@@ -10,3 +10,4 @@ https://felipermendess.github.io/
 Instagram: https://www.instagram.com/dev.felipermendes/ <br>
 GitHub: https://github.com/felipermendess/ <br>
 Linkedin: https://www.linkedin.com/in/felipermendess/
+Email: felipermendes04@gmail.com
